@@ -4,3 +4,4 @@ Spotify Uygulaması Özellikleri
 2-Sosyal Paylaşım Özellikleri: Arkadaşlarla şarkı, çalma listesi paylaşımı ve ortak çalma listesi oluşturma imkanı.
 3-Offline Mod: İndirilen şarkıları internet bağlantısı olmadan dinleyebilme özelliği.
 4-Yüksek Kalite Ses Akışı: Farklı kalitede ses seçenekleri (düşük, normal, yüksek ve çok yüksek kalite) sunarak kullanıcılara esnek ses deneyimi sağlama.
+5. Podcast Entegrasyonu: Müzik yanında podcast içeriklerini de dinleme ve keşfetme imkanı sağlayan özellik.
